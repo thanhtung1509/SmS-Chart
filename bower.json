@@ -1,0 +1,23 @@
+{
+  "name": "SmS-Chart",
+  "version": "0.0.1",
+  "authors": [
+    "thanhtung1509"
+  ],
+  "description": "Simple HTML Charts using the canvas element. It is an customize of the Chart.JS",
+  "main": ["SmS-Chart.js"],
+  "keywords": [
+    "SmS-Chart"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/thanhtung1509/SmS-Chart",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+
+}
